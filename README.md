@@ -1,5 +1,5 @@
 Brandon Laufer
-====
-George Mason University
-
-Department of Chemistry and Biochemistry
+==============
+Bachelor of Science, 
+  Major: Chemistry
+  Minor: Computational and Data Sciences
