@@ -2,9 +2,9 @@ Brandon Laufer
 ==============
 Bachelor of Science
 --------------------
-&nbsp;&nbsp;&nbsp;&nbsp;Major: Chemistry
-  
-&nbsp;&nbsp;&nbsp;&nbsp;Minor: Computational and Data Sciences
+&nbsp;&nbsp;&nbsp;&nbsp;*Major:* Chemistry
+
+&nbsp;&nbsp;&nbsp;&nbsp;*Minor:* Computational and Data Sciences
 
 Repositories
 ------------
